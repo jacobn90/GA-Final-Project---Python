@@ -1,4 +1,4 @@
-# GA-Final-Project-Nishant
+# GA-Final-Project-Nishant Jacob
 Summer Social Distancing - NYC (Data Science)
 
 With the onset of the devastating effects of Covid-19 on our daily lives and wellbeing, it is becoming increasingly important to spend time outside. The density of New York City presents a serious challenge in mediating between this goal and the pandemic. This, along with the predictable discomfort of the summer heat, was the main impetus for this project.
