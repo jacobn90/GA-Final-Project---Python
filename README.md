@@ -1,2 +1,2 @@
-# GA-Final-Project---Python
+# GA-Final-Project-Nishant
 Summer Social Distancing - NYC
