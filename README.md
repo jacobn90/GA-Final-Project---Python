@@ -7,6 +7,8 @@ The Summer Social Distancing tool will allow the audience to gain insight into w
 
 Data Sources:
 https://data.cityofnewyork.us/Environment/2015-Street-Tree-Census-Tree-Data/pi5s-9p35
+
 https://data.cityofnewyork.us/City-Government/NTA-map/d3qk-pfyz
+
 https://data.cityofnewyork.us/City-Government/Sidewalk/vfx9-tbb6
 
